@@ -1,0 +1,8 @@
+C:\Users\houssem\aspnet_core_projects\ASPNETCoreMvcDemo\bin\Debug\netcoreapp1.1\ASPNETCoreMvcDemo.deps.json
+C:\Users\houssem\aspnet_core_projects\ASPNETCoreMvcDemo\bin\Debug\netcoreapp1.1\ASPNETCoreMvcDemo.runtimeconfig.json
+C:\Users\houssem\aspnet_core_projects\ASPNETCoreMvcDemo\bin\Debug\netcoreapp1.1\ASPNETCoreMvcDemo.runtimeconfig.dev.json
+C:\Users\houssem\aspnet_core_projects\ASPNETCoreMvcDemo\bin\Debug\netcoreapp1.1\ASPNETCoreMvcDemo.dll
+C:\Users\houssem\aspnet_core_projects\ASPNETCoreMvcDemo\bin\Debug\netcoreapp1.1\ASPNETCoreMvcDemo.pdb
+C:\Users\houssem\aspnet_core_projects\ASPNETCoreMvcDemo\obj\Debug\netcoreapp1.1\ASPNETCoreMvcDemo.AssemblyInfo.cs
+C:\Users\houssem\aspnet_core_projects\ASPNETCoreMvcDemo\obj\Debug\netcoreapp1.1\ASPNETCoreMvcDemo.dll
+C:\Users\houssem\aspnet_core_projects\ASPNETCoreMvcDemo\obj\Debug\netcoreapp1.1\ASPNETCoreMvcDemo.pdb
